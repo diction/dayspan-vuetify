@@ -1,10 +1,11 @@
-
-import en from './en'
-import nl from './nl'
+import cn from './cn'
+//import en from './en'
+//import nl from './nl'
 
 export default {
-  'en': en,
-  'en-US': en
+  'cn':en
+  //'en': en,
+  //'en-US': en
 }
 
-export const defaultLocale = 'en'
+export const defaultLocale = 'cn'
